@@ -1,6 +1,6 @@
-# Next Boilerplate
+# Routines
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in NextJS projects.
+Routines is a small project to expose the daily routines of important Brazilian designers, to inspire other people into your routines.
 
 ![ci](https://github.com/maclevison/next-boilerplate/actions/workflows/ci.yml/badge.svg)
 
