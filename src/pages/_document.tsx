@@ -38,6 +38,10 @@ export default class MyDocument extends Document {
                         name="description"
                         content="A rotina diária de profissionais"
                     />
+                    <link
+                        rel="stylesheet"
+                        href="https://use.typekit.net/ciy1wvh.css"
+                    />
                 </Head>
                 <body>
                     <Main />
