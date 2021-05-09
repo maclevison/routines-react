@@ -33,7 +33,7 @@ export default class MyDocument extends Document {
         return (
             <Html lang="pt-BR">
                 <Head>
-                    <link rel="shortcut icon" href="/images/favicon.ico" />
+                    <link rel="shortcut icon" href="/images/favicon.png" />
                     <meta
                         name="description"
                         content="A rotina diária de profissionais"
