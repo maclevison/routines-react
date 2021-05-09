@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
     return (
         <>
             <Head>
-                <title>React Avançado - Boilerplate</title>
+                <title>Routines</title>
             </Head>
             <GlobalStyles />
             <Component {...pageProps} />

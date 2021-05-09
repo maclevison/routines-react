@@ -36,7 +36,7 @@ export default class MyDocument extends Document {
                     <link rel="shortcut icon" href="/images/favicon.ico" />
                     <meta
                         name="description"
-                        content="A simple project starter to work with TypeScript, React, NextJS and Styled Components"
+                        content="A rotina diária de profissionais"
                     />
                 </Head>
                 <body>
